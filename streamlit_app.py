@@ -114,3 +114,4 @@ if translateOption == "Tłumaczenie EN -> DE":
 
             except Exception as e:
                 st.error(f"Coś poszło nie tak:{e}")
+st.write("s28904")
